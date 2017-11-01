@@ -4,3 +4,4 @@ def f(x0, y0, Vx, Vy, ax, ay, t):
     cor = [x,y]
     return cor
 
+print(f(0,0,1,1,0,0,1))
